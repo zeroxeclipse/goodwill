@@ -1,0 +1,18 @@
+[
+  {
+    "button": "paste1",
+    "name": "Amalgam",
+    "build": "Latest",
+    "download": "https://nightly.link/rei-2/Amalgam/workflows/msbuild/master/Amalgamx64Release.zip",
+    "mode": "zip",
+    "version": "tf_win64"
+  },
+  {
+    "button": "paste2",
+    "name": "Unibox",
+    "build": "Latest",
+    "download": "https://nightly.link/GatoPotato658/Unibox/workflows/msbuild/master/Amalgamx64Release.zip",
+    "mode": "dll",
+    "version": "tf_win64"
+  }
+]
