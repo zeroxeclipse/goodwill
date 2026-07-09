@@ -12,7 +12,7 @@
     "name": "Unibox",
     "build": "Latest",
     "download": "https://nightly.link/GatoPotato658/Unibox/workflows/msbuild/master/Amalgamx64Release.zip",
-    "mode": "dll",
+    "mode": "zip",
     "version": "tf_win64"
   }
 ]
